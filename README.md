@@ -1,2 +1,2 @@
 # Gamescopeinstallscript
-A Script to clone download and install Gamescope on linux
+A simple set of scripts to clone, download, install and delete gamescope on linux
