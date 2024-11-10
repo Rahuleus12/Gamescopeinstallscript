@@ -31,7 +31,6 @@ Required Packages
     • mesa-libGL-devel
     • mesa-libgbm-devel
     • mesa-vulkan-drivers
-    • libvulkan-devel
     • vulkan-loader
     • vulkan-tools
     • vulkan-headers
