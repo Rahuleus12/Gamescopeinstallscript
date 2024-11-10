@@ -1,3 +1,4 @@
+#!/bin/bash
 cd gamescope
 git submodule update --init
 meson setup build/
