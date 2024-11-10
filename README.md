@@ -11,6 +11,7 @@ Any computer running linux.
 Required Packages
 
     • gcc
+    • git
     • gcc-c++
     • cmake
     • meson
@@ -25,22 +26,40 @@ Required Packages
     • libXrender-devel
     • libdrm-devel
     • libinput-devel
-    • libwayland-client
+    • libwayland-client-devel
+    • wayland-devel
     • libwayland-cursor
     • libwayland-egl
     • libwayland-server
+    • wayland-protocols-devel
     • mesa-libEGL-devel
     • mesa-libGL-devel
     • mesa-libgbm-devel
     • mesa-vulkan-drivers
+    • vulkan-loader-devel
     • vulkan-loader
     • vulkan-tools
     • vulkan-headers
     • systemd-devel
+    • libXcursor-devel
     • xorg-x11-server-Xwayland
     • xorg-x11-xinit
+    • libXxf86vm-devel
+    • libXtst-devel
+    • libXres-devel
+    • libXmu-devel
+    • libxkbcommon-devel
+    • pixman-devel
+    • libdecor-devel
+    • libseat-devel
+    • xcb-util-wm-devel
+    • xorg-x11-server-Xwayland-devel
+    • glslang-devel
+    • luajit-devel
     • gdb
+    • libcap-devel
     • perf
+    
 
 Required Packages
 
