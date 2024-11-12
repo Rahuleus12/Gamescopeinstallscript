@@ -26,7 +26,7 @@ Required Packages
     • libXrender-devel
     • libdrm-devel
     • libinput-devel
-    • libwayland-client-devel
+    • libwayland-client
     • wayland-devel
     • libwayland-cursor
     • libwayland-egl
