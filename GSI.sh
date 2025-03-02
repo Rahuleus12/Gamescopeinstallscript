@@ -47,7 +47,7 @@ show_main_menu() {
     dialog --clear --title "GSI: Gamescope Installer" \
         --menu "What would you like to do today?" 15 60 5 \
         1 "Install Gamescope" \
-        2 "Install Specific Version Gamescope" \
+        2 "Install Specific Version Gamescope (can break)" \
         3 "Update Gamescope" \
         4 "Delete Gamescope" \
         5 "Exit" 2>&1 >/dev/tty

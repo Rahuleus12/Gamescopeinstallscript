@@ -70,3 +70,5 @@ To run the script first make the GSI script executable.
 Then run Gsi.
 
 `./GSI.sh`
+
+If any problems are encountered delete and install Gamescope again
